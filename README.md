@@ -8,9 +8,7 @@
  * @version:  
 -->
 
-
 > 📢 **Notice on Dataset Download Links (Updated: 2025-07-18)**
-
 
 Our dataset is currently hosted on Baidu Netdisk. Due to certain unavoidable technical limitations, some users—especially those accessing from outside mainland China—may occasionally encounter issues such as "link unavailable" or timeouts.
 
@@ -40,6 +38,10 @@ In the context of the embodied intelligence era, pedestrian-wearable datasets ef
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+# Video
+
+![Data Overview](data.gif )
 
 # Download link🔗
 
