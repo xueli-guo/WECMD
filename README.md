@@ -88,3 +88,8 @@ Together, these spatial and temporal calibration results confirm precise alignme
 (6) Data Integrity and Completeness 
 The continuity of the stereo RGB image streams was verified based on time-sequence file naming and internal acquisition logs. The data acquisition system automatically recorded frame indices and monitored potential frame losses during recording. Throughout all data collection sessions, no frame loss was detected in the stereo RGB images, and all frames maintained strict timestamp continuity. This confirms that the visual data were captured and stored without interruption or temporal drift, ensuring reliable synchronization with other sensor modalities.All ROS bag recordings were validated to ensure frame continuity and timestamp consistency. 
 Collectively, these QA/QC results confirm that the WECMD dataset provides temporally synchronized, spatially calibrated, and noise-characterized multi-sensor data with verified integrity. The systematic evaluation ensures that WECMD meets the quality standards required for high-precision embodied perception, SLAM, and sensor fusion research.
+
+# 致谢/Acknowledgement
+
+本数据集的部分实验采集工作使用了上海交通大学邹丹平老师团队提供的实验场地。在此，我们对邹丹平老师及其团队在实验场地使用与相关支持方面给予的帮助与便利表示诚挚的感谢。
+Part of the data collection for this dataset was conducted using the experimental facilities provided by Prof. Danping Zou’s group at Shanghai Jiao Tong University. We would like to express our sincere gratitude to Prof. Zou and his team for their support and for granting access to the experimental site.
